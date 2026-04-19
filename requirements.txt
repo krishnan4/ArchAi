@@ -7,11 +7,6 @@ matplotlib
 pandas
 numpy
 requests
-<<<<<<< HEAD
 groq
 joblib
 gdown
-=======
-ultralytics
-gdown
->>>>>>> 35522e121191a219eae91bd9c9227aa3beb2a1c7
