@@ -10,6 +10,7 @@
 # ============================================================
 import io
 import os
+os.environ["OPENCV_IO_ENABLE_OPENEXR"] = "0"
 import cv2
 import json
 import zipfile
