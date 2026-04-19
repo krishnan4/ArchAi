@@ -1,5 +1,4 @@
 streamlit
-ultralytics
 opencv-python-headless
 folium
 streamlit-folium
@@ -10,3 +9,4 @@ requests
 groq
 joblib
 gdown
+ultralytics
