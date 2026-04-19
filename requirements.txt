@@ -1,9 +1,12 @@
 streamlit
-opencv-python
-numpy
-pandas
-matplotlib
+ultralytics
+opencv-python-headless
 folium
 streamlit-folium
+matplotlib
+pandas
+numpy
 requests
-ultralytics
+groq
+joblib
+gdown
